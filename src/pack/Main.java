@@ -3,6 +3,6 @@
 package pack;
 public class Main {
         public void msg(){
-            System.out.println("Hello GRIET");
+            System.out.println("Hello GRIET ppl");
         }
 }
